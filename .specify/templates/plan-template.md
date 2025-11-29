@@ -31,7 +31,12 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+*   **I. Foundational & Modular Content**: Does the plan break down the feature into logical, self-contained modules?
+*   **II. Practical Application Focus**: Does the plan include concrete examples, labs, or simulations?
+*   **III. Rigorous & Up-to-Date Content**: Does the plan include a process for peer review and content updates?
+*   **IV. Clear & Accessible Language**: Does the plan prioritize clear and accessible language, avoiding jargon?
+*   **V. Interactive Learning**: Does the plan incorporate interactive elements like quizzes or exercises?
+*   **VI. Open & Extensible**: Does the plan support community contributions and extensions?
 
 ## Project Structure
 
