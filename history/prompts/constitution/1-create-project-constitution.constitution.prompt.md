@@ -7,7 +7,7 @@ surface: agent
 model: {{MODEL}}
 feature: none
 branch: main
-user: {{USER}}
+user: SyedMuhammadSarmad
 command: /sp.constitution Create a Textbook for Teaching Physical AI & Humanoid Robotics Course
 labels: ["constitution", "project-setup"]
 links:
