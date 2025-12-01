@@ -1,2 +1,28 @@
-settings.json
-is
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+.env*
+
+# Docusaurus specific
+.docusaurus/
+docusaurus-site/build/ # Assuming docusaurus-site is the subdirectory
+docusaurus-site/.docusaurus/
+
+# Playwright specific
+test-results/
+playwright-report/
+
+# Universal
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+
+# Ignore .gemini temporary files
+.gemini/tmp/
+/.gemini/
+/history/prompts/
+package-lock.json

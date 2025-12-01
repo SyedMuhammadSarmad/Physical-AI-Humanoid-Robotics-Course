@@ -11,32 +11,26 @@
 
 ## Technical Context
 
-<!--
-  ACTION REQUIRED: Replace the content in this section with the technical details
-  for the project. The structure here is presented in advisory capacity to guide
-  the iteration process.
--->
-
-**Language/Version**: [e.g., Python 3.11, Swift 5.9, Rust 1.75 or NEEDS CLARIFICATION]  
-**Primary Dependencies**: [e.g., FastAPI, UIKit, LLVM or NEEDS CLARIFICATION]  
-**Storage**: [if applicable, e.g., PostgreSQL, CoreData, files or N/A]  
-**Testing**: [e.g., pytest, XCTest, cargo test or NEEDS CLARIFICATION]  
-**Target Platform**: [e.g., Linux server, iOS 15+, WASM or NEEDS CLARIFICATION]
-**Project Type**: [single/web/mobile - determines source structure]  
-**Performance Goals**: [domain-specific, e.g., 1000 req/s, 10k lines/sec, 60 fps or NEEDS CLARIFICATION]  
-**Constraints**: [domain-specific, e.g., <200ms p95, <100MB memory, offline-capable or NEEDS CLARIFICATION]  
-**Scale/Scope**: [domain-specific, e.g., 10k users, 1M LOC, 50 screens or NEEDS CLARIFICATION]
+**Language/Version**: Node.js 20.x LTS, TypeScript, Markdown/MDX
+**Primary Dependencies**: Docusaurus, React, Google Analytics (GA4)
+**Storage**: N/A (static site)
+**Testing**: Playwright (E2E tests for navigation/functionality, visual regression tests for layout/rendering)
+**Target Platform**: Web browser (desktop, tablet, mobile)
+**Project Type**: Web
+**Performance Goals**: Average page load time for any chapter must be under 3 seconds
+**Constraints**: Hosted on GitHub Pages, adheres to WCAG 2.1 Level AA accessibility guidelines
+**Scale/Scope**: Content Volume: Target 5-10 parts/modules, 5-10 chapters/module (total 25-100 chapters). User Scale: thousands of concurrent users (relying on static hosting/CDN).
 
 ## Constitution Check
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-*   **I. Foundational & Modular Content**: Does the plan break down the feature into logical, self-contained modules?
-*   **II. Practical Application Focus**: Does the plan include concrete examples, labs, or simulations?
-*   **III. Rigorous & Up-to-Date Content**: Does the plan include a process for peer review and content updates?
-*   **IV. Clear & Accessible Language**: Does the plan prioritize clear and accessible language, avoiding jargon?
-*   **V. Interactive Learning**: Does the plan incorporate interactive elements like quizzes or exercises?
-*   **VI. Open & Extensible**: Does the plan support community contributions and extensions?
+*   **I. Foundational & Modular Content**: **PASS**. The Docusaurus platform inherently supports modular content organization (parts, modules, chapters) as defined in the spec and constitution.
+*   **II. Practical Application Focus**: **PASS (Platform supports)**. While the platform plan itself doesn't *create* examples/labs, it is designed to robustly *host* such content, enabling the fulfillment of this principle in the content phase.
+*   **III. Rigorous & Up-to-Date Content**: **PASS**. The plan relies on Git for content version control and the project constitution's defined content review process, supporting rigorous and up-to-date content management.
+*   **IV. Clear & Accessible Language**: **PASS**. The plan explicitly prioritizes clear and accessible content delivery via `FR-002` and adherence to WCAG 2.1 Level AA accessibility guidelines (`FR-011`).
+*   **V. Interactive Learning**: **PASS (Platform supports)**. The Docusaurus platform's support for MDX allows for the integration of interactive elements like quizzes or exercises, enabling this principle to be fulfilled in content creation.
+*   **VI. Open & Extensible**: **PASS**. Hosting on GitHub with Git-based content management naturally supports community contributions and extensions via Pull Requests.
 
 ## Project Structure
 

@@ -1,55 +1,47 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+Sync Impact Report:
+- Version change: 0.0.0 → 1.0.0
+- Modified principles: None (initial creation)
+- Added sections: Content Structure, Contribution & Review Process
+- Removed sections: None
+- Templates requiring updates:
+  - ✅ .specify/templates/plan-template.md
+  - ✅ .specify/templates/spec-template.md
+  - ✅ .specify/templates/tasks-template.md
+- Follow-up TODOs: None
+-->
+# Textbook for Teaching Physical AI & Humanoid Robotics Course Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Foundational & Modular Content
+The textbook must be structured in a modular way, starting with foundational concepts and building up to more complex topics. This allows for flexible course design and easy integration of new material.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### II. Practical Application Focus
+Every theoretical concept must be accompanied by practical examples, labs, or simulations that can be implemented with real or simulated robots. This ensures students gain hands-on experience.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### III. Rigorous & Up-to-Date Content
+The content must be technically accurate, peer-reviewed, and regularly updated to reflect the latest advancements in AI and robotics. A clear process for content review and updates is mandatory.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### IV. Clear & Accessible Language
+The textbook must be written in clear, concise language, avoiding unnecessary jargon to be accessible to students from diverse backgrounds. All acronyms and specialized terms must be clearly defined.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### V. Interactive Learning
+The textbook must include interactive elements like quizzes, exercises, and links to online resources to enhance the learning experience and reinforce concepts.
 
-### [PRINCIPLE_6_NAME]
+### VI. Open & Extensible
+The textbook is open to community contributions and extensions. A clear and transparent process for submitting, reviewing, and integrating new content is required to foster collaboration and ensure quality.
 
+## Content Structure
 
-[PRINCIPLE__DESCRIPTION]
+The textbook is organized into distinct parts, each covering a major area of Physical AI and Humanoid Robotics. Each part consists of modules, and each module contains chapters. This modular structure allows instructors to customize the curriculum and enables parallel development of content.
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+## Contribution & Review Process
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+All contributions, from minor typo fixes to new chapters, are welcome. Submissions are made via pull requests and must undergo a peer-review process. At least two approvals from designated reviewers are required before a contribution is merged. All contributions must adhere to the principles outlined in this constitution.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+This constitution is the supreme governing document for the project. All content, contributions, and development practices must comply with its principles. Amendments to this constitution require a formal proposal, a community discussion period, and a majority vote from the project maintainers.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.0.0 | **Ratified**: 2025-11-30 | **Last Amended**: 2025-11-30
