@@ -43,8 +43,8 @@ description: "Task list for Physical AI & Humanoid Robotics Course Book Platform
 **Purpose**: Core configurations and cross-cutting concerns that must be completed before user stories.
 
 - [ ] T006 Configure `docusaurus-site/docusaurus.config.ts` with basic site metadata (title, tagline, etc.)
-- [ ] T007 Implement custom 404 "Page Not Found" page in `docusaurus-site/src/pages/404.js` (FR-009)
-- [ ] T008 Configure `docusaurus-site/docusaurus.config.ts` for Google Analytics (GA4) tracking (FR-012)
+- [x] T007 Implement custom 404 "Page Not Found" page in `docusaurus-site/src/pages/404.js` (FR-009)
+- [x] T008 Configure `docusaurus-site/docusaurus.config.ts` for Google Analytics (GA4) tracking (FR-012)
 - [ ] T009 Set up Playwright E2E testing framework in `docusaurus-site/`
 
 ---
@@ -57,10 +57,10 @@ description: "Task list for Physical AI & Humanoid Robotics Course Book Platform
 
 ### Implementation for User Story 1
 
-- [ ] T010 [US1] Create initial homepage content for `docusaurus-site/src/pages/index.js`
-- [ ] T011 [P] [US1] Create placeholder Markdown/MDX file for "Introduction" chapter in `docusaurus-site/docs/intro.md`
-- [ ] T012 [P] [US1] Create placeholder Markdown/MDX file for first main "Part 1" in `docusaurus-site/docs/part1/chapter1.md`
-- [ ] T013 [US1] Update `docusaurus-site/sidebars.js` to define initial hierarchical navigation for Introduction and Part 1 (FR-003)
+- [x] T010 [US1] Create initial homepage content for `docusaurus-site/src/pages/index.js`
+- [x] T011 [P] [US1] Create placeholder Markdown/MDX file for "Introduction" chapter in `docusaurus-site/docs/intro.md`
+- [x] T012 [P] [US1] Create placeholder Markdown/MDX file for first main "Part 1" in `docusaurus-site/docs/part1/chapter1.md`
+- [x] T013 [US1] Update `docusaurus-site/sidebars.js` to define initial hierarchical navigation for Introduction and Part 1 (FR-003)
 
 ---
 
@@ -72,9 +72,9 @@ description: "Task list for Physical AI & Humanoid Robotics Course Book Platform
 
 ### Implementation for User Story 2
 
-- [ ] T014 [US2] Verify clear, concise content rendering from existing Markdown/MDX files (FR-002, SC-003)
-- [ ] T015 [US2] Verify well-formatted code examples and diagrams rendering within a chapter (FR-002, SC-003)
-- [ ] T016 [P] [US2] Implement a sample embedded feedback form or integrate a third-party form (SC-004)
+- [x] T014 [US2] Verify clear, concise content rendering from existing Markdown/MDX files (FR-002, SC-003)
+- [x] T015 [US2] Verify well-formatted code examples and diagrams rendering within a chapter (FR-002, SC-003)
+- [x] T016 [P] [US2] Implement a sample embedded feedback form or integrate a third-party form (SC-004)
 
 ---
 
@@ -86,8 +86,8 @@ description: "Task list for Physical AI & Humanoid Robotics Course Book Platform
 
 ### Implementation for User Story 3
 
-- [ ] T017 [P] [US3] Implement search functionality (FR-005)
-- [ ] T018 [US3] Verify previous/next chapter navigation links (FR-004)
+- [x] T017 [P] [US3] Implement search functionality (FR-005)
+- [x] T018 [US3] Verify previous/next chapter navigation links (FR-004)
 
 ---
 
@@ -95,10 +95,10 @@ description: "Task list for Physical AI & Humanoid Robotics Course Book Platform
 
 **Purpose**: Final quality checks, deployment, and comprehensive compliance.
 
-- [ ] T019 Implement Responsive Design (FR-006) by adjusting `docusaurus-site/src/css/custom.css` as needed
+- [x] T019 Implement Responsive Design (FR-006) by adjusting `docusaurus-site/src/css/custom.css` as needed
 - [ ] T020 Run comprehensive Playwright E2E tests for navigation, search, and core functionality
-- [ ] T021 Conduct WCAG 2.1 Level AA accessibility audit and implement necessary fixes (FR-011)
-- [ ] T022 Configure GitHub Pages deployment (FR-008)
+- [x] T021 Conduct WCAG 2.1 Level AA accessibility audit and implement necessary fixes (FR-011)
+- [x] T022 Configure GitHub Pages deployment (FR-008)
 
 ---
 

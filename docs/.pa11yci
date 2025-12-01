@@ -1,0 +1,15 @@
+{
+  "defaults": {
+    "timeout": 50000,
+    "runners": [
+      "htmlcs"
+    ],
+    "standard": "WCAG2AA",
+    "args": ["--no-sandbox", "--disable-setuid-sandbox"]
+  },
+  "urls": [
+    "http://localhost:3000",
+    "http://localhost:3000/docs/intro",
+    "http://localhost:3000/docs/part1/chapter1"
+  ]
+}
