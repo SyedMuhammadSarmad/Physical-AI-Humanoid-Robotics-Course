@@ -53,6 +53,8 @@ const sidebars: SidebarsConfig = {
       label: 'Part 4: Advanced Topics',
       items: [
         'part4/chapter12',
+        'part4/chapter13',
+        'part4/chapter14',
       ],
     },
   ],
