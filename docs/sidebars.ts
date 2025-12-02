@@ -38,6 +38,16 @@ const sidebars: SidebarsConfig = {
         'part2/chapter7',
       ],
     },
+    {
+      type: 'category',
+      label: 'Part 3: Fundamentals of Robotics',
+      items: [
+        'part3/chapter8',
+        'part3/chapter9',
+        'part3/chapter10',
+        'part3/chapter11',
+      ],
+    },
   ],
 };
 
