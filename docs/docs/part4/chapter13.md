@@ -40,6 +40,7 @@ Several technological advancements drive progress in HRI:
 
 Future HRI research is moving towards more seamless, intuitive, and personalized interactions. This includes developing robots that can anticipate human needs, engage in fluid mixed-initiative collaboration, and effectively operate in highly dynamic and unstructured human environments. The focus is shifting from human-like robots to truly *humane* robots, capable of understanding and responding to the human condition.
 
-### References (placeholder, to be expanded with actual research papers)
-1.  [Example HRI Review Paper 1]
-2.  [Example HRI Review Paper 2]
+### References
+1.  Bartneck, C., Belpaeme, T., Eyssel, F., Kanda, T., Keijsers, M., & Šabanović, S. (2024). *Human-Robot Interaction – An Introduction* (2nd ed.). Cambridge University Press.
+2.  ACM/IEEE International Conference on Human-Robot Interaction (HRI).
+3.  ACM Transactions on Human-Robot Interaction (THRI).

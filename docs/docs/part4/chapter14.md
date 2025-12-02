@@ -36,6 +36,7 @@ Addressing these implications requires a proactive, multidisciplinary approach i
 
 The journey of integrating Physical AI and Humanoid Robotics into society is not merely a technological one, but a deeply human one, demanding careful consideration of our values and aspirations.
 
-### References (placeholder, to be expanded with actual research papers)
-1.  [Example Ethics Paper 1]
-2.  [Example Society Paper 2]
+### References
+1.  Coeckelbergh, M. (2020). *AI Ethics*. The MIT Press.
+2.  O'Neil, C. (2016). *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Crown.
+3.  West, D. M. (2018). *The Future of Work: Robots, AI, and Automation*. Brookings Institution Press.
