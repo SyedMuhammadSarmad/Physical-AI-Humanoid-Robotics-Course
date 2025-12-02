@@ -21,8 +21,22 @@ const sidebars: SidebarsConfig = {
     'intro',
     {
       type: 'category',
-      label: 'Part 1',
-      items: ['part1/chapter1'],
+      label: 'Part 1: Foundations of Physical AI',
+      items: [
+        'part1/chapter1',
+        'part1/chapter2',
+        'part1/chapter3',
+        'part1/chapter4',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Part 2: Core AI Techniques for Physical Interaction',
+      items: [
+        'part2/chapter5',
+        'part2/chapter6',
+        'part2/chapter7',
+      ],
     },
   ],
 };
