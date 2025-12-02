@@ -21,8 +21,41 @@ const sidebars: SidebarsConfig = {
     'intro',
     {
       type: 'category',
-      label: 'Part 1',
-      items: ['part1/chapter1'],
+      label: 'Part 1: Foundations of Physical AI',
+      items: [
+        'part1/chapter1',
+        'part1/chapter2',
+        'part1/chapter3',
+        'part1/chapter4',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Part 2: Core AI Techniques for Physical Interaction',
+      items: [
+        'part2/chapter5',
+        'part2/chapter6',
+        'part2/chapter7',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Part 3: Fundamentals of Robotics',
+      items: [
+        'part3/chapter8',
+        'part3/chapter9',
+        'part3/chapter10',
+        'part3/chapter11',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Part 4: Advanced Topics',
+      items: [
+        'part4/chapter12',
+        'part4/chapter13',
+        'part4/chapter14',
+      ],
     },
   ],
 };
