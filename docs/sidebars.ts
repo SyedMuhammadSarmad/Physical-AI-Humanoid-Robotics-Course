@@ -48,6 +48,13 @@ const sidebars: SidebarsConfig = {
         'part3/chapter11',
       ],
     },
+    {
+      type: 'category',
+      label: 'Part 4: Advanced Topics',
+      items: [
+        'part4/chapter12',
+      ],
+    },
   ],
 };
 
