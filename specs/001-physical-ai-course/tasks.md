@@ -8,10 +8,6 @@ description: "Task list for Physical AI & Humanoid Robotics Course Book Platform
 **Input**: Design documents from `/specs/001-physical-ai-course/`
 **Prerequisites**: plan.md (required), spec.md (required for user stories), research.md, data-model.md, contracts/
 
-**Summary**: This document details the atomic implementation tasks for building the Docusaurus website platform for the 'Physical AI & Humanoid Robotics Course' book. Tasks are organized by user story and critical phases to enable independent implementation, testing, and incremental delivery. The plan leverages Node.js 20.x, TypeScript, Docusaurus, React, Google Analytics, and Playwright for E2E testing, ensuring a performant, accessible, and maintainable platform hosted on GitHub Pages.
-
-**Tests**: This task list includes tasks for setting up the E2E testing framework based on the plan and research. Specific test writing tasks are generally included within user story phases.
-
 **Organization**: Tasks are grouped by user story to enable independent implementation and testing of each story.
 
 ## Format: `- [ ] [TaskID] [P?] [Story?] Description with file path`
@@ -44,16 +40,13 @@ description: "Task list for Physical AI & Humanoid Robotics Course Book Platform
 
 - [ ] T006 Configure `docusaurus-site/docusaurus.config.ts` with basic site metadata (title, tagline, etc.)
 - [x] T007 Implement custom 404 "Page Not Found" page in `docusaurus-site/src/pages/404.js` (FR-009)
-- [x] T008 Configure `docusaurus-site/docusaurus.config.ts` for Google Analytics (GA4) tracking (FR-012)
-- [ ] T009 Set up Playwright E2E testing framework in `docusaurus-site/`
+- [ ] T008 Configure `docusaurus-site/docusaurus.config.ts` for Google Analytics (GA4) tracking (FR-012)
 
 ---
 
 ## Phase 3: User Story 1 - Discover and Access Content (Priority: P1) 🎯 MVP
 
-**Goal**: A tech enthusiast can easily find the book online and navigate to the table of contents to browse topics.
-
-**Independent Test**: A user can open the book's URL and see a clear landing page and navigation to chapters.
+**Goal**: A tech enthusiast can easily find the book online and navigate to the table of contents to browse topics.v
 
 ### Implementation for User Story 1
 
@@ -68,8 +61,6 @@ description: "Task list for Physical AI & Humanoid Robotics Course Book Platform
 
 **Goal**: A reader can select and read a chapter, understanding its content including examples.
 
-**Independent Test**: A user can read any single chapter and reasonably grasp its main concepts and review its examples.
-
 ### Implementation for User Story 2
 
 - [x] T014 [US2] Verify clear, concise content rendering from existing Markdown/MDX files (FR-002, SC-003)
@@ -81,8 +72,6 @@ description: "Task list for Physical AI & Humanoid Robotics Course Book Platform
 ## Phase 5: User Story 3 - Navigate and Explore Related Topics (Priority: P3)
 
 **Goal**: A reader can easily navigate between chapters, search the book, and explore related topics.
-
-**Independent Test**: A user can effectively use all navigation elements (sidebar, next/previous buttons, search bar) to move through and within the book's content.
 
 ### Implementation for User Story 3
 
@@ -96,8 +85,6 @@ description: "Task list for Physical AI & Humanoid Robotics Course Book Platform
 **Purpose**: Final quality checks, deployment, and comprehensive compliance.
 
 - [x] T019 Implement Responsive Design (FR-006) by adjusting `docusaurus-site/src/css/custom.css` as needed
-- [ ] T020 Run comprehensive Playwright E2E tests for navigation, search, and core functionality
-- [x] T021 Conduct WCAG 2.1 Level AA accessibility audit and implement necessary fixes (FR-011)
 - [x] T022 Configure GitHub Pages deployment (FR-008)
 
 ---
