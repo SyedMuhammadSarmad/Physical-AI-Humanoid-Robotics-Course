@@ -1,0 +1,27 @@
+{
+  "id": "part1/chapter3",
+  "title": "Chapter 3: Control Systems and Algorithms",
+  "description": "Control systems are at the heart of every robot, providing the link between perception and action. They are responsible for taking the high-level goals of the robot and translating them into low-level commands for the actuators. In this chapter, we will explore the fundamental concepts of control systems and the algorithms that are used to control robotic systems.",
+  "source": "@site/docs/part1/chapter3.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/chapter3",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part1/chapter3.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Introduction to Robotics and AI",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter2"
+  },
+  "next": {
+    "title": "Chapter 4: Basics of AI and Machine Learning for Robotics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter4"
+  }
+}

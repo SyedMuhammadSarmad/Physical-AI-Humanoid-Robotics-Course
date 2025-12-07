@@ -1,0 +1,27 @@
+{
+  "id": "part3/chapter9",
+  "title": "Chapter 9: Robot Dynamics",
+  "description": "Robot dynamics is the study of the motion of robots considering the forces and torques that cause it. It is a more complex topic than robot kinematics, but it is essential for understanding and controlling the dynamic behavior of robots.",
+  "source": "@site/docs/part3/chapter9.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/chapter9",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter9",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part3/chapter9.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 8: Robot Kinematics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter8"
+  },
+  "next": {
+    "title": "Chapter 10: Robot Actuators and Sensors",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter10"
+  }
+}

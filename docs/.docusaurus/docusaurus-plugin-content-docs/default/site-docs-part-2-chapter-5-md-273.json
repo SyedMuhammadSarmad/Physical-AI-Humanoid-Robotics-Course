@@ -1,0 +1,27 @@
+{
+  "id": "part2/chapter5",
+  "title": "Chapter 5: Computer Vision in Robotics",
+  "description": "Computer Vision is a field of artificial intelligence that enables computers and systems to derive meaningful information from digital images, videos, and other visual inputs — and take actions or make recommendations based on that information. For robots, computer vision is the primary sense that allows them to perceive and understand the world around them.",
+  "source": "@site/docs/part2/chapter5.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/chapter5",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part2/chapter5.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Basics of AI and Machine Learning for Robotics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter4"
+  },
+  "next": {
+    "title": "Chapter 6: Reinforcement Learning for Physical AI",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter6"
+  }
+}

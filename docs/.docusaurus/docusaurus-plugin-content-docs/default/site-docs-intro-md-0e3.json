@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Introduction",
+  "description": "This is the introduction to the Physical AI & Humanoid Robotics Course Book.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 1",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter1"
+  }
+}

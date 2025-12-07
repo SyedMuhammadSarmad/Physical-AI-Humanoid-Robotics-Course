@@ -1,0 +1,27 @@
+{
+  "id": "part1/chapter2",
+  "title": "Chapter 2: Introduction to Robotics and AI",
+  "description": "The fields of Robotics and Artificial Intelligence (AI) have a deeply intertwined history. At its core, robotics is concerned with the design, construction, operation, and use of robots. AI, on the other hand, is the theory and development of computer systems able to perform tasks that normally require human intelligence. When these two fields converge, we get Physical AI, where intelligent algorithms are embodied in machines that can perceive, reason, and act upon the physical world.",
+  "source": "@site/docs/part1/chapter2.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/chapter2",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part1/chapter2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter1"
+  },
+  "next": {
+    "title": "Chapter 3: Control Systems and Algorithms",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter3"
+  }
+}

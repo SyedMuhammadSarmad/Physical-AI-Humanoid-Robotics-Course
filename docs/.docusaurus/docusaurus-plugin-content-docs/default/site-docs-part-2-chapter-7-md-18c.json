@@ -1,0 +1,27 @@
+{
+  "id": "part2/chapter7",
+  "title": "Chapter 7: Neural Networks for Robotic Control",
+  "description": "Neural Networks are a class of machine learning models that are inspired by the structure and function of the human brain. They are composed of a large number of interconnected nodes, called neurons, which are organized into layers. Neural networks are particularly well-suited for tasks that involve learning complex patterns from data, such as image recognition, natural language processing, and control.",
+  "source": "@site/docs/part2/chapter7.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/chapter7",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter7",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part2/chapter7.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Reinforcement Learning for Physical AI",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter6"
+  },
+  "next": {
+    "title": "Chapter 8: Robot Kinematics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter8"
+  }
+}

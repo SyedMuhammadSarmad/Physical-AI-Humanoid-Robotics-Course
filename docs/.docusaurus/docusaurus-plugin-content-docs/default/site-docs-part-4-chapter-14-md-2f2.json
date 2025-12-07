@@ -1,0 +1,23 @@
+{
+  "id": "part4/chapter14",
+  "title": "Chapter 14: Ethical and Societal Implications of Physical AI and Humanoid Robotics",
+  "description": "As Physical AI and Humanoid Robotics evolve from scientific curiosities to pervasive technologies, their ethical and societal implications become increasingly critical. These advanced systems, capable of autonomous physical action and human-like interaction, raise profound questions about responsibility, privacy, employment, and human dignity.",
+  "source": "@site/docs/part4/chapter14.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/chapter14",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter14",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part4/chapter14.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 13: Human-Robot Interaction (HRI)",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter13"
+  }
+}

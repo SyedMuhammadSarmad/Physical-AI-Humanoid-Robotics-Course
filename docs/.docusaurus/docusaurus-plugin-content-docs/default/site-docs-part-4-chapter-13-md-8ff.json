@@ -1,0 +1,27 @@
+{
+  "id": "part4/chapter13",
+  "title": "Chapter 13: Human-Robot Interaction (HRI)",
+  "description": "Human-Robot Interaction (HRI) is a multidisciplinary field dedicated to understanding, designing, and evaluating robotic systems for use by or with humans. As Physical AI and Humanoid Robotics advance, the ability for robots to interact effectively, safely, and naturally with people becomes paramount.",
+  "source": "@site/docs/part4/chapter13.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/chapter13",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter13",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part4/chapter13.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 12: A Deep Dive into Physical AI and Humanoid Robotics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter12"
+  },
+  "next": {
+    "title": "Chapter 14: Ethical and Societal Implications of Physical AI and Humanoid Robotics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter14"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "part3/chapter10",
+  "title": "Chapter 10: Robot Actuators and Sensors",
+  "description": "Actuators and sensors are the \"muscles\" and \"senses\" of a robot, respectively. They are the components that allow a robot to interact with its environment and to perceive the world around it. In this chapter, we will explore the different types of actuators and sensors that are used in robotics.",
+  "source": "@site/docs/part3/chapter10.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/chapter10",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter10",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part3/chapter10.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 9: Robot Dynamics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter9"
+  },
+  "next": {
+    "title": "Chapter 11: Robot Localization and Mapping",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter11"
+  }
+}

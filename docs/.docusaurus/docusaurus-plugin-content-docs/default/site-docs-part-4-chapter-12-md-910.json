@@ -1,0 +1,27 @@
+{
+  "id": "part4/chapter12",
+  "title": "Chapter 12: A Deep Dive into Physical AI and Humanoid Robotics",
+  "description": "In this chapter, we will take a deep dive into the exciting and rapidly evolving fields of Physical AI and Humanoid Robotics. We will explore the key concepts, challenges, and applications of these technologies, and we will discuss the future of intelligent robots that can interact with the physical world in a human-like way.",
+  "source": "@site/docs/part4/chapter12.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/chapter12",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter12",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part4/chapter12.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 11: Robot Localization and Mapping",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter11"
+  },
+  "next": {
+    "title": "Chapter 13: Human-Robot Interaction (HRI)",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter13"
+  }
+}

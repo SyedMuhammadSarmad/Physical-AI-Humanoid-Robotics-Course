@@ -1,0 +1,27 @@
+{
+  "id": "part3/chapter8",
+  "title": "Chapter 8: Robot Kinematics",
+  "description": "Robot kinematics is the study of the motion of robots without considering the forces that cause it. It is one of the most fundamental topics in robotics, as it provides the basis for understanding and controlling the movement of robots.",
+  "source": "@site/docs/part3/chapter8.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/chapter8",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter8",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part3/chapter8.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7: Neural Networks for Robotic Control",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter7"
+  },
+  "next": {
+    "title": "Chapter 9: Robot Dynamics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter9"
+  }
+}

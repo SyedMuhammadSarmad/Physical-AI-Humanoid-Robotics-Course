@@ -1,0 +1,112 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Physical-AI-Humanoid-Robotics-Course/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Physical-AI-Humanoid-Robotics-Course/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter1",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter2",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter3",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/chapter4",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter5",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter6",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/chapter7",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter10",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter10",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter11",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter11",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter8",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part3/chapter9",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part4/chapter12",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter12",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part4/chapter13",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter13",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part4/chapter14",
+              "path": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter14",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/Physical-AI-Humanoid-Robotics-Course/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  },
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "G-XXXXXXXXXX"
+      ],
+      "anonymizeIP": true,
+      "id": "default"
+    }
+  }
+}

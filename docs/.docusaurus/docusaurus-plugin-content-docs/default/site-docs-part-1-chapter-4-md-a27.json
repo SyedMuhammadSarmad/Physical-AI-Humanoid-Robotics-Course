@@ -1,0 +1,27 @@
+{
+  "id": "part1/chapter4",
+  "title": "Chapter 4: Basics of AI and Machine Learning for Robotics",
+  "description": "Artificial Intelligence (AI) and Machine Learning (ML) are the core technologies that enable robots to perform intelligent tasks. In this chapter, we will provide a high-level overview of the fundamental concepts of AI and ML and their applications in robotics.",
+  "source": "@site/docs/part1/chapter4.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/chapter4",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part1/chapter4.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Control Systems and Algorithms",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter3"
+  },
+  "next": {
+    "title": "Chapter 5: Computer Vision in Robotics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter5"
+  }
+}

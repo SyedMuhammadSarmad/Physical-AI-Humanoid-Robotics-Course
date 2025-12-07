@@ -1,0 +1,302 @@
+{
+  "/Physical-AI-Humanoid-Robotics-Course/404-61e": {
+    "__comp": "6bb41b40",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog-4d2": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "ead338c6"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/archive-e1a": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "39a150d6"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/authors-99c": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "9bb45ad3"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/authors/all-sebastien-lorber-articles-984": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "b95b7519"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/authors/yangshun-985": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "0344a933"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/first-blog-post-934": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/long-blog-post-2b2": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/mdx-blog-post-a60": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/tags-1a9": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "e294a3d8"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/tags/docusaurus-d6e": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "baf0b903"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/tags/facebook-0ce": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "448ad0e0"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/tags/hello-72c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "__props": "5f5cd277"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/tags/hola-5be": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "01cacd73"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/blog/welcome-9c4": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/markdown-page-d0e": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/search-92a": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "c141421f"
+    }
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs-d3f": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs-a21": {
+    "__comp": "a7bd4aaa",
+    "__props": "57a5dbe6"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs-268": {
+    "__comp": "a94703ab"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/intro-330": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter1-619": {
+    "__comp": "17896441",
+    "content": "5cd31030"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter2-3dd": {
+    "__comp": "17896441",
+    "content": "9045c62a"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter3-c9f": {
+    "__comp": "17896441",
+    "content": "b1824a08"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part1/chapter4-e0b": {
+    "__comp": "17896441",
+    "content": "a27fd6b5"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter5-81e": {
+    "__comp": "17896441",
+    "content": "273548cf"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter6-376": {
+    "__comp": "17896441",
+    "content": "58ccd8b4"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part2/chapter7-bba": {
+    "__comp": "17896441",
+    "content": "18cc95fa"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter10-dcc": {
+    "__comp": "17896441",
+    "content": "ee4c0495"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter11-5fb": {
+    "__comp": "17896441",
+    "content": "7f0c5e01"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter8-372": {
+    "__comp": "17896441",
+    "content": "e6237bb2"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter9-915": {
+    "__comp": "17896441",
+    "content": "b0e3e804"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter12-90d": {
+    "__comp": "17896441",
+    "content": "91018312"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter13-279": {
+    "__comp": "17896441",
+    "content": "8ff77b18"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter14-c1d": {
+    "__comp": "17896441",
+    "content": "2f24cc43"
+  },
+  "/Physical-AI-Humanoid-Robotics-Course/-d4f": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

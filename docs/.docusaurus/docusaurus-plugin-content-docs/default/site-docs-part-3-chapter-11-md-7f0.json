@@ -1,0 +1,27 @@
+{
+  "id": "part3/chapter11",
+  "title": "Chapter 11: Robot Localization and Mapping",
+  "description": "For a robot to operate autonomously, it must be able to answer two fundamental questions: \"Where am I?\" and \"What does the world around me look like?\". The tasks of answering these questions are known as localization and mapping, respectively.",
+  "source": "@site/docs/part3/chapter11.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/chapter11",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter11",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/docs/part3/chapter11.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 10: Robot Actuators and Sensors",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part3/chapter10"
+  },
+  "next": {
+    "title": "Chapter 12: A Deep Dive into Physical AI and Humanoid Robotics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Course/docs/part4/chapter12"
+  }
+}
