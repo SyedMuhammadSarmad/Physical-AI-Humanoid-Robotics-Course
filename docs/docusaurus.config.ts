@@ -109,7 +109,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/smsar/book',
+          href: 'https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course',
           label: 'GitHub',
           position: 'right',
         },
@@ -154,7 +154,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/smsar/book',
+              href: 'https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course',
             },
           ],
         },
