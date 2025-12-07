@@ -15,17 +15,18 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://smsar.github.io',
+  url: 'https://SyedMuhammadSarmad.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/book/',
+  baseUrl: '/Physical-AI-Humanoid-Robotics-Course/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'smsar', // Usually your GitHub org/user name.
-  projectName: 'book', // Usually your repo name.
+  organizationName: 'SyedMuhammadSarmad', // Usually your GitHub org/user name.
+  projectName: 'Physical-AI-Humanoid-Robotics-Course', // Usually your repo name.
 
   onBrokenLinks: 'throw',
+  trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -44,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/smsar/book/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +56,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/smsar/book/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/SyedMuhammadSarmad/Physical-AI-Humanoid-Robotics-Course/tree/main/docs/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
